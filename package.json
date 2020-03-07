@@ -11,7 +11,8 @@
     "RestAPI",
     "MongoDB",
     "Mongoose",
-    "Notes"
+    "Notes",
+    "Banner"
   ],
   "author": "callicoder",
   "license": "MIT",
